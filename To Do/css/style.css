@@ -1,16 +1,54 @@
 .to-do {
   text-align: center;
+  color: green;
 }
 
-.text {
+.text-1 {
   text-align: center;
 }
-#list {
+.text-2 {
+  text-align: center;
+}
+.text-3 {
+  text-align: center;
+}
+.text-4 {
+  text-align: center;
+}
+.text-5 {
+  text-align: center;
+}
+.ordered {
   margin: 20px;
   text-align: center;
 }
 
-#list:hover {
+.ordered {
+  text-align: center;
+  list-style-position: inside;
+}
+
+#list-1:hover {
+  color: red;
+  cursor: pointer;
+  text-decoration: line-through;
+}
+#list-2:hover {
+  color: red;
+  cursor: pointer;
+  text-decoration: line-through;
+}
+#list-3:hover {
+  color: red;
+  cursor: pointer;
+  text-decoration: line-through;
+}
+#list-4:hover {
+  color: red;
+  cursor: pointer;
+  text-decoration: line-through;
+}
+#list-5:hover {
   color: red;
   cursor: pointer;
   text-decoration: line-through;

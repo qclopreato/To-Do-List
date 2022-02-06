@@ -1,0 +1,17 @@
+.to-do {
+  text-align: center;
+}
+
+.text {
+  text-align: center;
+}
+#list {
+  margin: 20px;
+  text-align: center;
+}
+
+#list:hover {
+  color: red;
+  cursor: pointer;
+  text-decoration: line-through;
+}
